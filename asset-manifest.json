@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/ShreeRamtour-travel/static/css/main.f7114742.css",
-    "main.js": "/ShreeRamtour-travel/static/js/main.b8986a18.js",
-    "static/js/453.ed3810f9.chunk.js": "/ShreeRamtour-travel/static/js/453.ed3810f9.chunk.js",
-    "static/media/carimage.jpg": "/ShreeRamtour-travel/static/media/carimage.8d2f6d36ac911763dbde.jpg",
-    "static/media/carrented.jpg": "/ShreeRamtour-travel/static/media/carrented.fcc4ca35dfe8ef6b6b99.jpg",
-    "static/media/omkareshwar.jpg": "/ShreeRamtour-travel/static/media/omkareshwar.0a343778421a810b2b92.jpg",
-    "static/media/mahakalmandir1.jpg": "/ShreeRamtour-travel/static/media/mahakalmandir1.435a4f1a0471be1d57cb.jpg",
-    "static/media/maheshwarfort.jpg": "/ShreeRamtour-travel/static/media/maheshwarfort.0ac88b1751700a896a47.jpg",
-    "static/media/rajawadaImage.jpg": "/ShreeRamtour-travel/static/media/rajawadaImage.af8bc17c5541bf00f8a8.jpg",
-    "static/media/cabtaxi.jpg": "/ShreeRamtour-travel/static/media/cabtaxi.4c62643c7a096ff622b0.jpg",
-    "static/media/mumbaicity.jpg": "/ShreeRamtour-travel/static/media/mumbaicity.8bc3ff2013fb959005fd.jpg",
-    "static/media/mandav.jpg": "/ShreeRamtour-travel/static/media/mandav.d10fab3b707f56b62d29.jpg",
-    "static/media/logo.svg": "/ShreeRamtour-travel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ShreeRamtour-travel/index.html",
-    "main.f7114742.css.map": "/ShreeRamtour-travel/static/css/main.f7114742.css.map",
-    "main.b8986a18.js.map": "/ShreeRamtour-travel/static/js/main.b8986a18.js.map",
-    "453.ed3810f9.chunk.js.map": "/ShreeRamtour-travel/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/ApnaSafar/static/css/main.a40b9967.css",
+    "main.js": "/ApnaSafar/static/js/main.99850453.js",
+    "static/js/453.ed3810f9.chunk.js": "/ApnaSafar/static/js/453.ed3810f9.chunk.js",
+    "static/media/headerlogo.png": "/ApnaSafar/static/media/headerlogo.47de521d3779bfa51d51.png",
+    "static/media/carimage.jpg": "/ApnaSafar/static/media/carimage.8d2f6d36ac911763dbde.jpg",
+    "static/media/carrented.jpg": "/ApnaSafar/static/media/carrented.fcc4ca35dfe8ef6b6b99.jpg",
+    "static/media/omkareshwar.jpg": "/ApnaSafar/static/media/omkareshwar.0a343778421a810b2b92.jpg",
+    "static/media/mahakalmandir1.jpg": "/ApnaSafar/static/media/mahakalmandir1.435a4f1a0471be1d57cb.jpg",
+    "static/media/maheshwarfort.jpg": "/ApnaSafar/static/media/maheshwarfort.0ac88b1751700a896a47.jpg",
+    "static/media/rajawadaImage.jpg": "/ApnaSafar/static/media/rajawadaImage.af8bc17c5541bf00f8a8.jpg",
+    "static/media/cabtaxi.jpg": "/ApnaSafar/static/media/cabtaxi.4c62643c7a096ff622b0.jpg",
+    "static/media/mumbaicity.jpg": "/ApnaSafar/static/media/mumbaicity.8bc3ff2013fb959005fd.jpg",
+    "static/media/mandav.jpg": "/ApnaSafar/static/media/mandav.d10fab3b707f56b62d29.jpg",
+    "static/media/logo.svg": "/ApnaSafar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ApnaSafar/index.html",
+    "main.a40b9967.css.map": "/ApnaSafar/static/css/main.a40b9967.css.map",
+    "main.99850453.js.map": "/ApnaSafar/static/js/main.99850453.js.map",
+    "453.ed3810f9.chunk.js.map": "/ApnaSafar/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7114742.css",
-    "static/js/main.b8986a18.js"
+    "static/css/main.a40b9967.css",
+    "static/js/main.99850453.js"
   ]
 }

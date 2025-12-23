@@ -5,21 +5,21 @@ const carClass = [
   {
     title: "Economy Class ",
     Middletittle: "Sedan",
-    content:"Shree Ram Tour & Travels has many car options. But, Sedan is one of the best cab for everyone, and it can be most reliable and under your budget.",
+    content:"Apna Safar Tour & Travels has many car options. But, Sedan is one of the best cab for everyone, and it can be most reliable and under your budget.",
     carPrice: "Price-12Rs",
     icon: FaCar,
   },
   {
     title: "Standard Class",
     Middletittle: "SUV",
-    content:"A standard car SUV in Shree Ram Tour & Travels a great option for those who need transportation to and from work, events, or other important engagements.",
+    content:"A standard car SUV in Apna Safar Tour & Travels a great option for those who need transportation to and from work, events, or other important engagements.",
     carPrice:"Price-14Rs",
     icon: FaTaxi,
   },
   {
     title: "Business Class",
     Middletittle: "Luxury",
-    content: "Shree Ram Tour & Travels offers affordable luxurious and comfortable ride for businessmen. We make sure that your journey is smooth and hassle-free.",
+    content: "Apna Safar Tour & Travels offers affordable luxurious and comfortable ride for businessmen. We make sure that your journey is smooth and hassle-free.",
     carPrice:"Price-40Rs",
     icon: FaCar
   },

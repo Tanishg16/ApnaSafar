@@ -20,7 +20,7 @@ const Middletittle = () => {
     const encodedMessage = encodeURIComponent(message);
 
     // Construct the WhatsApp URL with the encoded message
-    const url = `https://wa.me/+919301277735?text=${encodedMessage}`;
+    const url = `https://wa.me/+918962976610?text=${encodedMessage}`;   // owner number 
 
     // Open the WhatsApp chat in a new tab
     window.open(url, "_blank");
